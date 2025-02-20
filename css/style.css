@@ -116,6 +116,9 @@ body::-webkit-scrollbar-track {
     .nav-link {
         padding: 2px 5px;
     }
+    .header{
+        padding: 25px 5px;
+    }
 }
 
 .slider-header {
@@ -1346,7 +1349,7 @@ body::-webkit-scrollbar-track {
 }
 
 .intro-section {
-    background-image: url("../img/service-bg.jpg");
+    background-image: url("../img/service/prev9.jpg");
     background-size: cover;
     background-position: center;
     color: white;
