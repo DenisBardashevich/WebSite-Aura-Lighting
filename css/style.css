@@ -231,7 +231,7 @@ body::-webkit-scrollbar-track {
 }
 
 .astranova-content p {
-    color: #34495e;
+    color: #495057;
     font-size: 1.2rem;
     line-height: 1.6;
     margin-bottom: 15px;
@@ -269,7 +269,7 @@ body::-webkit-scrollbar-track {
 .about-us-text {
     max-width: 800px; 
     margin-bottom: 20px;
-    color: #34495e;
+    color: #495057;
 }
 
 .about-us-image {
@@ -347,7 +347,7 @@ body::-webkit-scrollbar-track {
     display: inline-block;
     padding: 10px 20px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -421,7 +421,7 @@ body::-webkit-scrollbar-track {
     border: none;
     border-radius: 10px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
     font-size: 1em;
     transition: background-color 0.3s ease,
@@ -496,13 +496,13 @@ body::-webkit-scrollbar-track {
 .favorite-model {
     font-size: 1.5em;
     margin: 15px 0 10px;
-    color: #34495e;
+    color: #495057;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
 .favorite-description {
     font-size: 1em;
-    color: #34495e;
+    color: #495057;
     padding: 0 15px;
 }
 
@@ -510,7 +510,7 @@ body::-webkit-scrollbar-track {
     display: inline-block;
     padding: 10px 20px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
     border-radius: 10px;
     margin: 15px 0;
@@ -541,7 +541,7 @@ body::-webkit-scrollbar-track {
     padding: 20px;
     text-align: center;
     background-color: #f9f9f9;
-    color: #34495e;
+    color: #495057;
 }
 
 .testimonial-slider h2 {
@@ -565,7 +565,7 @@ body::-webkit-scrollbar-track {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     padding: 15px;
     transition: transform 0.5s ease;
-    border: 1px solid #34495e;
+    border: 1px solid #495057;
     scroll-snap-align: start;
 }
 
@@ -579,7 +579,7 @@ body::-webkit-scrollbar-track {
 
 .testimonial-slide blockquote {
     font-style: italic;
-    color: #34495e;
+    color: #495057;
     font-size: 1.2em;
 }
 
@@ -654,14 +654,14 @@ body::-webkit-scrollbar-track {
 }
 
 .privacy-link {
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
 }
 
 .btn {
     margin-top: 10px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     border: none;
     padding: 12px;
     border-radius: 6px;
@@ -785,7 +785,7 @@ body::-webkit-scrollbar-track {
 
 .privacy-text {
     line-height: 1.6;
-    color: #34495e;
+    color: #495057;
 }
 
 .contact-privacy-terms {
@@ -814,7 +814,7 @@ body::-webkit-scrollbar-track {
 
 .terms-text {
     line-height: 1.6;
-    color: #34495e;
+    color: #495057;
 }
 
 .about {
@@ -881,8 +881,10 @@ body::-webkit-scrollbar-track {
 .features-section {
     width: 100%;
     margin: 0 auto;
-    padding: 40px 20px;
-    background-color: #00404b;
+    margin-top: 20px;
+    padding: 20px 20px;
+    background-color: rgb(84, 84, 84);
+    
 }
 
 .features-title {
@@ -910,13 +912,13 @@ body::-webkit-scrollbar-track {
 
 .feature-title {
     font-size: 1.5em;
-    color: #34495e;
+    color: #495057;
     margin-bottom: 10px;
 }
 
 .feature-text {
     font-size: 1em;
-    color: #34495e;
+    color: #495057;
     margin-bottom: 20px;
 }
 
@@ -924,7 +926,7 @@ body::-webkit-scrollbar-track {
     display: inline-block;
     padding: 10px 20px;
     background-color: gray;
-    color: #34495e;
+    color: black;
     text-decoration: none;
     border-radius: 10px;
     transition: background-color 0.3s ease,
@@ -1029,7 +1031,7 @@ body::-webkit-scrollbar-track {
     display: inline-block;
     padding: 10px 20px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
     border-radius: 10px;
     transition: background-color 0.3s ease,
@@ -1335,7 +1337,7 @@ body::-webkit-scrollbar-track {
 .lamp-select__learn-more-btn {
     display: inline-block;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     padding: 10px 20px;
     border-radius: 10px;
     text-align: center;
@@ -1444,7 +1446,7 @@ body::-webkit-scrollbar-track {
 .service-card__btn {
     display: inline-block;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     padding: 10px 15px;
     text-decoration: none;
     border-radius: 10px;
@@ -1535,7 +1537,7 @@ body::-webkit-scrollbar-track {
     margin-top: 15px;
     padding: 10px 20px;
     background-color: gray;
-    color: #34495e;
+    color: #495057;
     text-decoration: none;
     border-radius: 10px;
     transition: background-color 0.3s ease,
