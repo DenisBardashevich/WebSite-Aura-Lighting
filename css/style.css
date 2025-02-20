@@ -1250,7 +1250,7 @@ body::-webkit-scrollbar-track {
     }
 }
 
-.cars-select {
+.lamp-select {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
@@ -1258,19 +1258,19 @@ body::-webkit-scrollbar-track {
     padding: 20px;
 }
 
-.cars-select h1 {
+.lamp-select h1 {
     text-align: center;
     color: white;
     margin-bottom: 20px;
 }
 
-.cars-select p {
+.lamp-select p {
     text-align: center;
     color: rgb(180, 180, 180);
     margin-bottom: 40px;
 }
 
-.cars-select__concept-car-section {
+.lamp-select__concept-car-section {
     background-color: #f9f9f9;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -1278,19 +1278,19 @@ body::-webkit-scrollbar-track {
     margin-bottom: 30px;
 }
 
-.cars-select__concept-car-section h2 {
+.lamp-select__concept-car-section h2 {
     color: #333;
     margin-bottom: 10px;
 }
 
-.cars-select__concept-team-cards {
+.lamp-select__concept-team-cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 20px;
 }
 
-.cars-select__concept-card {
+.lamp-select__concept-card {
     background-color: #f9f9f9;
     border-radius: 5px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
@@ -1298,40 +1298,41 @@ body::-webkit-scrollbar-track {
     padding: 15px;
     width: calc(33% - 20px);
     transition: transform 0.3s;
+    text-align: center;
 }
 
-.cars-select__concept-card:hover {
+.lamp-select__concept-card:hover {
     transform: scale(1.05);
 }
 
-.cars-select__concept-card img {
+.lamp-select__concept-card img {
     max-width: 100%;
     border-radius: 5px;
 }
 
-.cars-select__concept-card h3 {
+.lamp-select__concept-card h3 {
     color: #333;
     margin: 10px 0;
 }
 
-.cars-select__concept-card p {
+.lamp-select__concept-card p {
     color: #666;
     font-size: 0.9em;
 }
 
 @media (max-width: 768px) {
-    .cars-select__concept-card {
+    .lamp-select__concept-card {
         width: calc(50% - 20px);
     }
 }
 
 @media (max-width: 480px) {
-    .cars-select__concept-card {
+    .lamp-select__concept-card {
         width: calc(100% - 20px);
     }
 }
 
-.cars-select__learn-more-btn {
+.lamp-select__learn-more-btn {
     display: inline-block;
     background-color: gray;
     color: #34495e;
@@ -1619,7 +1620,7 @@ body::-webkit-scrollbar-track {
         background-color: #acacac;
         color: gray;
     }
-    .cars-select__learn-more-btn:hover {
+    .lamp-select__learn-more-btn:hover {
         background-color: #acacac;
         color: gray;
     }
