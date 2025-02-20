@@ -58,12 +58,15 @@ body::-webkit-scrollbar-track {
     background-color: transparent;
 }
 .header {
-    padding: 20px 100px;
+    padding: 25px 100px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
     background-color: #4d4d4d;
+    border-bottom: 1px solid white;
     transition: top 0.3s;
     z-index: 1000;
     max-width: 1920px;
